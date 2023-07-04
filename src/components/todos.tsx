@@ -1,5 +1,5 @@
-import React from 'react'
-import { useTodos, Todo } from '../store/todos';
+
+import { useTodos } from '../store/todos';
 import { useSearchParams } from "react-router-dom";
 
 const Todos = () => {
